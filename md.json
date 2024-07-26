@@ -3,4 +3,5 @@
 "description": "Linkberry ISPO Pool",
 "ticker": "LIBE",
 "homepage": "https://linkberry.info"
+"extended": "https://hysleeper.github.io/extended-metadata.json"
 }
