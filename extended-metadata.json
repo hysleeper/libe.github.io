@@ -1,5 +1,5 @@
 {
-    "verification":"verification-string-here-for-pool-claim",
+    "verification":"884cb879d789bc9bfb",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
     "info": {
         "url_png_icon_64x64": "https://linkberry.info/icon.png",
