@@ -1,0 +1,34 @@
+{
+    "verification":"verification-string-here-for-pool-claim",
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://linkberry.info/icon.png",
+        "url_png_logo": "https://linkberry.info/logo.png",
+        "location": "Daejeon, South Korea",
+        "social": {
+            "twitter_handle": "https://x.com/hysleeper4",
+            "telegram_handle": "cexplorer_io",
+            "facebook_handle": "",
+            "youtube_handle": "https://www.youtube.com/@Linkberry4U",
+            "twitch_handle": "",
+            "discord_handle": "https://discord.gg/eK8rRPKPzq",
+            "github_handle": "",
+            "patreon_handle": "",
+            "linkedin_handle": "",
+            "ada_handle": "$LIBE"
+        },
+        "company": {
+            "name": "Yabak Labs",
+            "addr": "Street, Number",
+            "city": "Daejeon",
+            "country": "South Korea",
+            "company_id": "Linkberry for basic income",
+            "vat_id": "KR123456789"
+        },
+        "about": {
+            "me": "Linkberry",
+            "server": "Contabo Hosted",
+            "company": "..."
+        }
+    }
+}
